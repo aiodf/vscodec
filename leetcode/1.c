@@ -1,6 +1,16 @@
+/*
+ * @Author: aiodf
+ * @Date: 2023-05-06 15:16:22
+ * @LastEditors: aiodf
+ * @LastEditTime: 2023-05-06 17:13:13
+ * @FilePath: \vscodec\leetcode\1.c
+ * @Description: 
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
 void swap(int** a, int** b) {
     int* tmp = *a;
     *a = *b, *b = tmp;
