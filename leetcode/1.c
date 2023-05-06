@@ -30,6 +30,7 @@ struct Heap {
 //test
 //...
 //1
+//2
 void init(struct Heap* obj, int capacity) {
     obj->size = 0;
     obj->heap = NULL;
