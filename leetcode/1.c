@@ -2,7 +2,7 @@
  * @Author: aiodf
  * @Date: 2023-05-06 15:16:22
  * @LastEditors: aiodf
- * @LastEditTime: 2023-05-06 19:26:49
+ * @LastEditTime: 2023-05-06 20:20:23
  * @FilePath: \vscodec\leetcode\1.c
  * @Description: 滑动算法
  */
@@ -32,6 +32,11 @@ struct Heap {
 //1
 //2
 //3
+//4
+//5
+//C
+//D
+//E
 void init(struct Heap* obj, int capacity) {
     obj->size = 0;
     obj->heap = NULL;
