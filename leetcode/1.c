@@ -2,9 +2,9 @@
  * @Author: aiodf
  * @Date: 2023-05-06 15:16:22
  * @LastEditors: aiodf
- * @LastEditTime: 2023-05-06 17:13:13
+ * @LastEditTime: 2023-05-06 17:52:49
  * @FilePath: \vscodec\leetcode\1.c
- * @Description: 
+ * @Description: 滑动算法
  */
 
 #include <stdio.h>
