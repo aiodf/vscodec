@@ -85,7 +85,7 @@
       "newlineAddAnnotation": true // 默认遇到换行符(\r\n \n \r)添加注释符号
     },
     "moveCursor": true, // 自动移动光标到Description所在行
-    "dateFormat": "YYYY-MM-DD HH:mm:ss",
+    "dateFormat": "YYYY-MM-DD HH",
     "atSymbol": ["@", "@"], // 更改所有文件的自定义注释中的@符号
     "atSymbolObj": {}, //  更改单独语言/文件的@
     "colon": [": ", ": "], // 更改所有文件的注释冒号

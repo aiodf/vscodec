@@ -1,8 +1,8 @@
 /*
  * @Author: aiodf
- * @Date: 2023-05-06 15:16:22
+ * @Date: 2023-05-06 15
  * @LastEditors: aiodf
- * @LastEditTime: 2023-05-06 18:04:01
+ * @LastEditTime: 2023-05-06 18
  * @FilePath: \vscodec\leetcode\1.c
  * @Description: 滑动算法
  */
